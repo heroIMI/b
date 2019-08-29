@@ -3,6 +3,6 @@
 <meta charset="utf-8">
 </head>
 <body>
-<h2>再见 !</h2>
+<h2>再见!</h2>
 </body>
 </html>
