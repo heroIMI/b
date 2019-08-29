@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>fuckyou!</h2>
+<h2>再见!</h2>
 </body>
 </html>
